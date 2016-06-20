@@ -1,3 +1,3 @@
 # balone_gdl_game
 
-Description: [README.pdf]
+Description: [README](README.pdf)
